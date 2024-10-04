@@ -17,3 +17,4 @@ Select their preferred payment method.
 Wallet ID Generation: A unique 12-digit wallet ID is generated for the user.
 The user receives a confirmation message on their registered phone number.
 An option is provided to download the mobile app (APK) for offline transactions.
+![image alt](https://github.com/ItsVicky25/emergency-financial-hotspot/blob/a0c2f1864ece1321c6a9a7503df740fcf0bf11de/download.png)

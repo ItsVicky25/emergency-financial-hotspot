@@ -7,6 +7,7 @@ Our platform integrates a unique feature that can be incorporated into existing 
 
 Website User Flow:
 
+
 Home Page: Welcomes users and introduces them to the platform.
 Authentication Page: Users sign in to access their account.
 Wallet Creation Page:
